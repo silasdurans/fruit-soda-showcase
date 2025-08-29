@@ -3,12 +3,6 @@
 Um showcase interativo de refrigerantes de fruta, criado com **HTML, CSS e JavaScript**.  
 O projeto apresenta um carrossel animado com diferentes sabores de refrigerantes, cada um com destaque visual, cor de fundo personalizada e transições suaves.
 
-## Funcionalidades
-- Navegação entre os sabores através dos botões **anterior** e **próximo**.
-- Animações de entrada para título, fruta e garrafa.
-- Paleta de cores dinâmica configurada em cada item (`--background`).
-- Estrutura simples e responsiva.
-
 ## Demonstração
 Exemplo de sabores incluídos:
 - 🍓 **Morango**
